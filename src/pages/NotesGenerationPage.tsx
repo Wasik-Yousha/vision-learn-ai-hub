@@ -1,5 +1,5 @@
-
 import Navigation from '@/components/Navigation';
+import ChatBot from '@/components/ChatBot';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
@@ -35,6 +35,7 @@ const NotesGenerationPage = () => {
   return (
     <div className="min-h-screen bg-gray-50">
       <Navigation />
+      <ChatBot />
       
       <div className="max-w-6xl mx-auto px-4 py-8">
         <div className="mb-8 flex items-center justify-between">

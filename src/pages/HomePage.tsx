@@ -1,5 +1,5 @@
-
 import Navigation from '@/components/Navigation';
+import ChatBot from '@/components/ChatBot';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Link } from 'react-router-dom';
@@ -62,6 +62,7 @@ const HomePage = () => {
   return (
     <div className="min-h-screen bg-gray-50">
       <Navigation />
+      <ChatBot />
       
       {/* Hero Section */}
       <div className="bg-gradient-to-r from-purple-600 to-purple-800 text-white py-16">
