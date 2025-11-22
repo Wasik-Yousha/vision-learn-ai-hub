@@ -4,6 +4,6 @@ I tried lovable and here is the outcome 🤷‍♂️
 
 ## Project info
 
-**URL**: https://preview--vision-learn-ai-hub.lovable.app/?__lovable_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiSElHWXNaNkhjbFhCa0RvblU1c0thamtQYjVxMiIsInByb2plY3RfaWQiOiIwM2RiMWViZi1mNjZmLTQ1MzQtYjY4OS03ZjQ2NmM0YmYyMzQiLCJub25jZSI6IjhkN2JiZmQ3OGM1OGM5MGZjNzIwMjY1YWFlMDVhNDc2IiwiaXNzIjoibG92YWJsZS1hcGkiLCJzdWIiOiIwM2RiMWViZi1mNjZmLTQ1MzQtYjY4OS03ZjQ2NmM0YmYyMzQiLCJhdWQiOlsibG92YWJsZS1hcHAiXSwiZXhwIjoxNzY0NDAzODYxLCJuYmYiOjE3NjM3OTkwNjEsImlhdCI6MTc2Mzc5OTA2MX0.swuRVftpz5mEvDShH8gUOID5sjwSLBUy5tlYkrOaRjM/
+**URL**: https://vision-learn-ai-hub.lovable.app
 
 
